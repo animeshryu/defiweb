@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,600;9..40,800&display=swap');
+
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+body h1 {
+  color: white;
+  font-family: 'DM Sans';
+  font-size: 5vw;
+}
+
+.showData {
+  background-color: white;
+}
